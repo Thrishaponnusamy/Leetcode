@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
