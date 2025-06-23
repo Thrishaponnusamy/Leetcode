@@ -59,8 +59,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
