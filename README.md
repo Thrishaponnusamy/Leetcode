@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0520-detect-capital](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0520-detect-capital) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
