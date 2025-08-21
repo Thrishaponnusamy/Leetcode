@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
