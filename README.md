@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1500-count-largest-group](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1500-count-largest-group) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Math
 |  |
 | ------- |
