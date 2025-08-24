@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
 | [1500-count-largest-group](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1500-count-largest-group) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Linked List
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
