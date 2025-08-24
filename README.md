@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0202-happy-number) |
 | [1500-count-largest-group](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1500-count-largest-group) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0520-detect-capital) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0043-multiply-strings) |
 | [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
