@@ -1,25 +1,20 @@
-import java.util.HashSet;
-
-public class Solution {
+class Solution {
     public boolean isHappy(int n) {
-        HashSet<Integer> seen = new HashSet<>();
-
-        while (n != 1) {
-            int sum = 0;
-            while (n > 0) {
-                int digit = n % 10;
-                sum += digit * digit;
-                n /= 10;
-            }
-
-            if (seen.contains(sum)) {
-                return false; // Loop detected
-            }
-
-            seen.add(sum);
-            n = sum;
-        }
-
+       if(n==1||n==7){
         return true;
+       }
+       else if(n<10){
+        return false;
+       }
+       else{
+        int sum=0;
+        while(n>0){
+            int te=n%10;
+            sum+=te*te;
+            n=n/10;
+            }
+        return isHappy(sum);
+       }
+       
     }
 }
