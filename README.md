@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0326-power-of-three) |
 | [1500-count-largest-group](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1500-count-largest-group) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Linked List
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
