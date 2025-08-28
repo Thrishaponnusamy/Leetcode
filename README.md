@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0041-first-missing-positive) |
+| [0219-contains-duplicate-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
