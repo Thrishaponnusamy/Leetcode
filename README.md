@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2825-minimize-string-length](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2825-minimize-string-length) |
 | [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
+| [3811-reverse-degree-of-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0043-multiply-strings) |
 | [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
+| [3811-reverse-degree-of-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
