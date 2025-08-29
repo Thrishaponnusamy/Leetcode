@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0520-detect-capital) |
