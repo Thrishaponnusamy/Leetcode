@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3651-transformed-array) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2825-minimize-string-length](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2825-minimize-string-length) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
