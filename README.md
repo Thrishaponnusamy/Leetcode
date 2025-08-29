@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2365-percentage-of-letter-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2825-minimize-string-length](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2825-minimize-string-length) |
+| [3396-valid-word](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
