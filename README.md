@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
 | [1500-count-largest-group](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1500-count-largest-group) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Linked List
 |  |
 | ------- |
