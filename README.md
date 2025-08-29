@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1651-shuffle-string) |
 | [2235-capitalize-the-title](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2235-capitalize-the-title) |
