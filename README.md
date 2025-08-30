@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1651-shuffle-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1651-shuffle-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
