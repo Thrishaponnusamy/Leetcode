@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1500-count-largest-group) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1448-maximum-69-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
