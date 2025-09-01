@@ -6,12 +6,11 @@ class Solution {
 
            String m = s.substring(i, Math.min(i+k, s.length()));
 
-            
-            if(m.length()<k){
+
                 while(m.length()<k){
                     m+=fill;
                 }
-            }
+            
       y.add(m);
         }
       String[] kk=new String[y.size()];
