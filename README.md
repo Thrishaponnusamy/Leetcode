@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1651-shuffle-string) |
 | [2235-capitalize-the-title](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2235-capitalize-the-title) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2825-minimize-string-length](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2825-minimize-string-length) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0043-multiply-strings) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
 | [3651-transformed-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3651-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
