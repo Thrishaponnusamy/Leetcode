@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3164-last-visited-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3164-last-visited-integers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3651-transformed-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3651-transformed-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0043-multiply-strings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3164-last-visited-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3164-last-visited-integers) |
 | [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
 | [3651-transformed-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3651-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
