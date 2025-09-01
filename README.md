@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1448-maximum-69-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Sliding Window
 |  |
 | ------- |
