@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1031-add-to-array-form-of-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1031-add-to-array-form-of-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1448-maximum-69-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
