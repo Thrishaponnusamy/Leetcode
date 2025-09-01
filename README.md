@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2383-add-two-integers) |
+| [2571-find-the-pivot-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2998-count-symmetric-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Linked List
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2571-find-the-pivot-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String Matching
