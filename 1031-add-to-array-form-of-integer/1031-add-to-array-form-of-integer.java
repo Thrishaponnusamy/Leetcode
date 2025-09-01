@@ -5,9 +5,7 @@ class Solution {
         while(yy>=0 || k>0){
             if(yy>=0){
                 k+=num[yy];
-                yy--;
-
-            }
+                yy--;}
              kk.addFirst(k % 10); 
             k /= 10; 
         }
