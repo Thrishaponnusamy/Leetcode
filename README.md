@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0048-rotate-image) |
 | [0219-contains-duplicate-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0231-power-of-two) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0048-rotate-image) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Enumeration
 |  |
