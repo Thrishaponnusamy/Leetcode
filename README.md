@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1651-shuffle-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1651-shuffle-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1500-count-largest-group](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0383-ransom-note) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3778-transform-array-by-parity) |
