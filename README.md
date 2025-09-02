@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3164-last-visited-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3164-last-visited-integers) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3651-transformed-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3651-transformed-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## String
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1448-maximum-69-number) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
