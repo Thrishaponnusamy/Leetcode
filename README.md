@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1651-shuffle-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1651-shuffle-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2571-find-the-pivot-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
