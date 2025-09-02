@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3164-last-visited-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3164-last-visited-integers) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2825-minimize-string-length](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2825-minimize-string-length) |
 | [3034-points-that-intersect-with-cars](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## String
