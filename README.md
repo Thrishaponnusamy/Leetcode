@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3164-last-visited-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3164-last-visited-integers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3651-transformed-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2998-count-symmetric-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Linked List
 |  |
 | ------- |
