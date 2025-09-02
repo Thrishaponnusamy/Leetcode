@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1797-goal-parser-interpretation) |
