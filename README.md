@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0941-sort-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
