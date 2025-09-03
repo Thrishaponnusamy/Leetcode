@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0414-third-maximum-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0941-sort-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
