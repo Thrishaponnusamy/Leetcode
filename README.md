@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3830-find-closest-person](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
 | ------- |
