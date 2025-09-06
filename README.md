@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1894-merge-strings-alternately](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1894-merge-strings-alternately](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2235-capitalize-the-title](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2235-capitalize-the-title) |
