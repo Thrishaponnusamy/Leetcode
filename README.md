@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/0394-decode-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3447-clear-digits](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
