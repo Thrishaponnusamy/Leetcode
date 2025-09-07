@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2235-capitalize-the-title](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2825-minimize-string-length](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2825-minimize-string-length) |
