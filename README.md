@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2235-capitalize-the-title](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Thrishaponnusamy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thrishaponnusamy/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Thrishaponnusamy/Leetcode/tree/master/3778-transform-array-by-parity) |
